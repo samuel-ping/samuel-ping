@@ -1,4 +1,4 @@
-### Hey! I'm Sam. Thanks for stopping by!
+### Hey! I'm Sam.
 I'm a student at Rutgers University- New Brunswick studying Computer Science plus an additional degree in business. I'm currently a Student Systems Programmer at Rutgers Open Systems Solutions, and an incoming Software Engineering intern at Capital One for Summer 2021. Outside of school, I love playing tennis and performing in theater productions!
 
 You can find more about me on [my website.](https://samuelping.me)
