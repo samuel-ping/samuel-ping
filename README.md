@@ -1,5 +1,5 @@
 ### Hey! I'm Sam.
-I'm a student at Rutgers University- New Brunswick majoring in Computer Science with a minor in Business Administration. I'm currently a Student Systems Programmer at Rutgers Open Systems Solutions. Outside of school, I love playing tennis and performing in theater productions!
+I'm a student at Rutgers University- New Brunswick majoring in Computer Science with a minor in Business Administration. I'm currently a Student Systems Programmer at Rutgers Open Systems Solutions, and an incoming TIP intern at Capital One. Outside of school, I love playing tennis and performing in theater productions!
 
 You can find more about me on [my website.](https://samuelping.me)
 
